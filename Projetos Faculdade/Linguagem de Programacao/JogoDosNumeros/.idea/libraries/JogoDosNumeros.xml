@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JogoDosNumeros">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JogoDosNumeros.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
